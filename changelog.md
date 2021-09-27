@@ -3,6 +3,10 @@ Changelog
 
 This file lists the important changes between versions. For a list of minor changes, check the log.
 
+v1.30
+-----
+ - Replace obsolete JSMin by JShrink Minifier
+
 v1.21
 -----
  - Move CSS @import statements to top of combined files
